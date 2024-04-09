@@ -18,10 +18,8 @@ https://projeto-streamlit-ebac.onrender.com/
 
 ## Autores
 
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas gomes 
-ex. [@LucasGomes](https://www.linkedin.com/in/lucas-gomes-ns/)
+Lucas gomes 
+[@LucasGomes](https://www.linkedin.com/in/lucas-gomes-ns/)
 
 ## Histórico de versões.
 
